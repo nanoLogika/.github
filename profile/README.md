@@ -1,4 +1,6 @@
-## Hi there 👋
+##<img width="755" alt="grafik_produktLogika" src="https://github.com/nanoLogika/.github/assets/76402452/b1bf5c88-60f9-45f7-a152-3fea7a4aa4f4">
+
+Hi there 👋
 
 <!--
 
