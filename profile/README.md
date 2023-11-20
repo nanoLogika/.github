@@ -1,4 +1,6 @@
-![image](https://github.com/nanoLogika/.github/assets/76402452/c07c7613-dd6d-4de6-b45f-b88073c995b3)
+![image](https://github.com/nanoLogika/.github/assets/76402452/7ee6fde2-866d-41a4-bbda-af257d64354e)
+
+
 
 ## Hi there 👋
 
