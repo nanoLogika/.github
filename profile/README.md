@@ -2,7 +2,18 @@
 
 
 
-## Hi there 👋
+<!--## Hi there 👋-->
+
+nanoLogika is a company located in Berlin, Germany. We are focused on electronic product catalogues and
+product configuration systems. [produktLogika&#174;](https://www.nanologika.de/produktkonfigurator/)
+is nanoLogika's catalog-based product configuration system. Visit https://www.nanologika.de to
+get more information about us.
+
+## New: nanoLogika Open Source Projects
+To support projects with a produktLogika product configurator that combines parts of 2D drawings
+created in AutoCAD nanoLogika developed a DWG-to-SVG converter [ACad/SVG](https://github.com/nanoLogika/ACadSvg).
+The [ACad SVG Studio](https://github.com/nanoLogika/ACadSvgStudio) can be used to view and edit the
+converted SVG text and display it in an integrated browser.
 
 <!--
 
